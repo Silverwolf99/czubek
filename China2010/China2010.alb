@@ -1,0 +1,90 @@
+<webalbum version="1.8.2">
+  <title>China 2010</title>
+  <description>
+    <line>Various photographs that I'd like to share on the Web.</line>
+  </description>
+  <settings>
+    <photosize width="1024" height="768">custom</photosize>
+    <thumbsize width="80" height="60">small</thumbsize>
+    <outputdirectory>J:\China2010\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>16777215</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>3</thumbnailrows>
+    <thumbnailcols>5</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <title>Beijing</title>
+      <caption>
+        <line>Lama Temple in the capital</line>
+      </caption>
+      <filename>U:\China 2010\DSC01167.JPG</filename>
+    </photo>
+    <photo>
+      <title>Stone</title>
+      <caption>
+        <line>Aksdksdasp kosdkaolk apdoap</line>
+        <line>asdasdasd</line>
+        <line>sdfwdfasdf</line>
+      </caption>
+      <filename>U:\China 2010\DSC00380.JPG</filename>
+    </photo>
+    <photo>
+      <title>Lama</title>
+      <caption>
+        <line>sddfasddf as dfas df</line>
+      </caption>
+      <filename>U:\China 2010\DSC00399.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00414.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00433.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00474.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00492.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00535.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00551.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00580.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00608.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00843.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00904.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC00983.JPG</filename>
+    </photo>
+    <photo>
+      <filename>U:\China 2010\DSC01046.JPG</filename>
+    </photo>
+    <photo>
+      <title>Title</title>
+      <caption>
+        <line>Groby Ming</line>
+      </caption>
+      <filename>U:\China 2010\DSC01105.JPG</filename>
+    </photo>
+  </photographs>
+</webalbum>
